@@ -1,7 +1,7 @@
 
 # Oven Pereyra
 
-El QA más groso.
+.
 
 
 ## Tecnologías:
